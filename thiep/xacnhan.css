@@ -454,6 +454,9 @@ background-color: #3F5647;
   .container {
       width: 100%;
   }
+.container-wrapper{
+  margin: 0 auto;
+}
   .info{
     font-size: 10px;
   }
@@ -461,6 +464,7 @@ background-color: #3F5647;
     margin-left: 55px;
   }
   .box-form{
-    margin-top: 20px;
+    margin-top: 30px;
+    padding: 40px;
   }
 }
